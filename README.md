@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryan-s8737
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning android
-- 💞️ I’m working as a Software Engineer 
+- ✨ I’m working as a Software Engineer 
 - 📫 How to reach me ...through email >aryaupvns@gmail.com
 
 <!---
